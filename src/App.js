@@ -9,7 +9,7 @@ import Projects from './components/Projects'
 
 const App = () => {
   return (
-    <div>
+    <div className='bg-pink-300'>
       <Header/>
       <Home/>
       <About/>
